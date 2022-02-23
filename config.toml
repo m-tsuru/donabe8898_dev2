@@ -24,7 +24,7 @@ highlight_theme = "visual-studio-dark"
 
 author = "donabe"
 show_categories = true
-favicon = "img/aho,png"
+favicon = "images/aho,png"
 show_tags = true
 show_author = false
 theme_color = "blue"
