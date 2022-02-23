@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://donabe8898/</loc>
+        <loc>https://donabe8898.jp/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/about/</loc>
+        <loc>https://donabe8898.jp/about/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/categories/</loc>
+        <loc>https://donabe8898.jp/categories/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/categories/donabe8898/</loc>
+        <loc>https://donabe8898.jp/categories/donabe8898/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/my_contents/</loc>
+        <loc>https://donabe8898.jp/my_contents/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/posts/</loc>
+        <loc>https://donabe8898.jp/posts/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/posts/first/</loc>
+        <loc>https://donabe8898.jp/posts/first/</loc>
         <lastmod>2022-02-23</lastmod>
     </url>
     <url>
-        <loc>https://donabe8898/posts/page/1/</loc>
+        <loc>https://donabe8898.jp/posts/page/1/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/tags/</loc>
+        <loc>https://donabe8898.jp/tags/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/tags/rust/</loc>
+        <loc>https://donabe8898.jp/tags/rust/</loc>
     </url>
     <url>
-        <loc>https://donabe8898/tags/zola/</loc>
+        <loc>https://donabe8898.jp/tags/zola/</loc>
     </url>
 </urlset>

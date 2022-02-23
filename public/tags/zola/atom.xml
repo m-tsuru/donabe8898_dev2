@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
 	<title>donabe8898 - zola</title>
 	<subtitle>ようこそ</subtitle>
-	<link href="https://donabe8898/tags/zola/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://donabe8898"/>
+	<link href="https://donabe8898.jp/tags/zola/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://donabe8898.jp"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-02-23T00:00:00+00:00</updated>
-	<id>https://donabe8898/tags/zola/atom.xml</id>
+	<id>https://donabe8898.jp/tags/zola/atom.xml</id>
 	<entry xml:lang="ja">
 		<title>Webサイトを作り替えました</title>
 		<published>2022-02-23T00:00:00+00:00</published>
 		<updated>2022-02-23T00:00:00+00:00</updated>
-		<link href="https://donabe8898/posts/first/" type="text/html"/>
-		<id>https://donabe8898/posts/first/</id>
+		<link href="https://donabe8898.jp/posts/first/" type="text/html"/>
+		<id>https://donabe8898.jp/posts/first/</id>
 		<content type="html">&lt;p&gt;2021年12月から公開していたdonabe8898のサイトはHTML&amp;amp;CSSの授業で作ったものをそのまま流用していたのですが、ブログやその他の情報を載せると管理がしにくくなると判断したのでRust製のSSGであるZolaに移行しました。&lt;&#x2F;p&gt;
 &lt;p&gt;ここでは技術的な備忘録や旅行記などをアップしていきたいと思っております。
 今後ともよろしくおねがいします。&lt;&#x2F;p&gt;

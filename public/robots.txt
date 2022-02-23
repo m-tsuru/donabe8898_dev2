@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://donabe8898/sitemap.xml
+Sitemap: https://donabe8898.jp/sitemap.xml
