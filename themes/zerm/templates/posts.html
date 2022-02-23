@@ -1,0 +1,12 @@
+{% import "macros/lists.html" as lists -%}
+{% extends "index.html" -%}
+
+{%- block title %}
+    <title>記事一覧 - {{ config.title }}</title>
+{%- endblock title -%}
+
+{%- block main -%}
+    <div>
+        {{ lists::list_pages() }}
+    </div>
+{%- endblock main -%}
