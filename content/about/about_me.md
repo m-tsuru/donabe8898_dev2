@@ -4,7 +4,7 @@ path = "about"
 +++
 
 
-<img src="asetts/img/aho.png" style="max-width: 200px"  />
+<img src="assets/img/aho.png" style="max-width: 200px"  />
 
 # Donabe8898
 - 名前: Yugo Okamoto
