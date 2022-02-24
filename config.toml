@@ -1,8 +1,8 @@
 # The URL the site will be built for
-base_url = "https://donabe8898.pages.dev/"
+base_url = "/"
 
 title = "donabe8898"
-description = "ようこそ"
+description = "YOUKOSO"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 default_language = "ja"
@@ -24,7 +24,7 @@ highlight_theme = "visual-studio-dark"
 
 author = "donabe"
 show_categories = true
-favicon = "images/aho,png"
+favicon = "/images/aho,png"
 show_tags = true
 show_author = false
 theme_color = "blue"

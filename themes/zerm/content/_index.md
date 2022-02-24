@@ -1,6 +1,6 @@
 +++
-sort_by = "date"
+sort_by = "date" 
 transparent = true
-render = true
-paginate_by = 1
+paginate_by = 3
+insert_anchor_links = "right"
 +++
