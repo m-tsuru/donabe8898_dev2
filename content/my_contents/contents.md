@@ -12,4 +12,5 @@ Unity インターハイ2018に出品したゲーム作品
 サイゼリヤ1000ガチャのLINEbot版
 - Google Apps Scriptを使用
 - QRcode
-![SZbot]("/images/sz1000QR.png")
+
+<img src="/images/sz1000QR.png" style="max-width: 200px"  />
