@@ -1,45 +1,40 @@
-# The URL the site will be built for
-base_url = "/"
-
+base_url = "https://donabe8898.dev"
 title = "donabe8898"
-description = "YOUKOSO"
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+description = "The page of donabe8898.dev"
 default_language = "ja"
-# Whether to build a search index to be used later on by a JavaScript library
+output_dir = "public"
+compile_sass = true
 build_search_index = false
-theme = "zerm"
-generate_feed = true
 taxonomies = [
-           {name = "tags", feed = true},
-           {name = "categories", feed = true},
+    { name = "categories", feed = true, paginate_by = 10 },
+    { name = "tags", fees = true, paginate_by = 10 },
 ]
+theme = "DeepThought"
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-highlight_theme = "visual-studio-dark"
+highlight_theme = "one-dark"
+render_emoji = true
 
 [extra]
+chart.enabled = true
+mermaid.enabled = true
+galleria.enabled = true
 
-author = "donabe"
-show_categories = true
-favicon = "/images/aho,png"
-show_tags = true
-show_author = false
-theme_color = "blue"
-center = true
-logo_text = "donbae8898.dev"
-logo_home_link = "/"
-show_menu_items = 3
-main_menu = [
-      {url="/about/",name="about me"},
-      {url="/posts/",name="posts"},
-      {url="/my_contents/",name="contents"},
-      {url="https://github.com/donabe8898",name="GitHub",external=true}
-
+navbar_items = [
+  { code = "ja",nav_items = [
+  { url = "$BASE_URL/",name = "Home" },
+  { url = "$BASE_URL/about",name = "About me" },
+  { url = "$BASE_URL/my_contents",name = "Contents" },
+  { url = "$BASE_URL/posts",name = "Posts" },
+  { url = "$BASE_URL/tags",name = "Tags" },
+  { url = "$BASE_URL/categories", name = "Categories" },
+ ]},
 ]
-menu_more = "more"
-read_more = "read more"
-read_other_posts = "read other posts"
-disqus = { enabled=false, short_name="" }
+
+
+[extra.social]
+
+
+[extra.author]
+name = "Donabe"
+avatar = "images/aho.png"
