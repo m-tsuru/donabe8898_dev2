@@ -16,6 +16,9 @@ paginate_by = 5
 - 大阪電気通信大学　鉄道研究サークル
 - Minecraftゲームコミュニティ「PostMineClan」技術部
 
+# 競プロ
+- AtCoder（灰色の初心者です）: [Donabe8898](https://atcoder.jp/users/Donabe8898)
+
 # SNS/リンク/連絡先
 - twitter: [@A10donabe](https://twitter.com/A10donabe)
 - twitter（サブ）: [@yuugoo19](https://twitter.com/yuugoo19)
