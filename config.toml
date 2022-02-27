@@ -10,6 +10,9 @@ taxonomies = [
     { name = "tags", fees = true, paginate_by = 10 },
 ]
 theme = "DeepThought"
+generate_feed = true
+feed_filename = "atom.xml"
+
 [markdown]
 highlight_code = true
 highlight_theme = "one-dark"
