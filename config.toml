@@ -46,6 +46,13 @@ twitter = "A10donabe"
 github = "donabe8898"
 email = "okaokau5@gmail.com"
 
+[extra.favicon]
+favicon_16x16 = "images/aho.png"
+favicon_32x32 = "images/aho.png"
+apple_touch_icon = "images/aho.png"
+safari_pinned_tab = "images/aho.png"
+webmanifest = "images/aho.png"
+
 [extra.author]
 name = "Donabe"
 avatar = "images/aho.png"
