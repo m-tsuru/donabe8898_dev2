@@ -25,3 +25,7 @@ paginate_by = 5
 - instagram: [a10_donabe](https://www.instagram.com/a10_donabe/)
 - GitHub : [donabe8898](https://github.com/donabe8898)
 - Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
+
+# 公開鍵
+- [GnuPG](https://github.com/donabe8898.gpg)
+- [SSH](https://github.com/donabe8898.keys)
