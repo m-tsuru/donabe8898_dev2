@@ -31,12 +31,12 @@ galleria.enabled = true
 
 navbar_items = [
   { code = "ja",nav_items = [
-  { url = "$BASE_URL/",name = "Home" },
-  { url = "$BASE_URL/about",name = "About me" },
-  { url = "$BASE_URL/my_contents",name = "Contents" },
-  { url = "$BASE_URL/posts",name = "Posts" },
-  { url = "$BASE_URL/tags",name = "Tags" },
-  { url = "$BASE_URL/categories", name = "Categories" },
+  { url = "/",name = "Home" },
+  { url = "/about",name = "About me" },
+  { url = "/my_contents",name = "Contents" },
+  { url = "/posts",name = "Posts" },
+  { url = "/tags",name = "Tags" },
+  { url = "/categories", name = "Categories" },
  ]},
 ]
 
