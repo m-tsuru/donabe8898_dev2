@@ -5,7 +5,7 @@ paginate_by = 5
 +++
 
 
-<img src="/images/aho.png" style="max-width: 200px"  />
+<img src="/images/blueAGOOO.png" style="max-width: 200px"  />
 
 # Donabe8898
 - 名前: Yugo Okamoto
@@ -24,7 +24,7 @@ paginate_by = 5
 - twitter（サブ）: [@yuugoo19](https://twitter.com/yuugoo19)
 - instagram: [a10_donabe](https://www.instagram.com/a10_donabe/)
 - GitHub : [donabe8898](https://github.com/donabe8898)
-- Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
+- Gmail: okaokau5@gmail.com
 
 # 公開鍵とか
 - [GnuPG](https://github.com/donabe8898.gpg)    
