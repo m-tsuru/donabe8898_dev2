@@ -1,58 +1,57 @@
 base_url = "/"
 title = "donabe8898"
-description = "The page of donabe8898.dev"
+description = "The page of donabe8898"
 default_language = "ja"
 output_dir = "public"
 compile_sass = true
 build_search_index = false
-taxonomies = [
-    { name = "categories", feed = true, paginate_by = 10 },
-    { name = "tags", fees = true, paginate_by = 10 },
-]
-theme = "DeepThought"
+
+theme = "zhuia"
 generate_feed = true
 feed_filename = "rss.xml"
 
+taxonomies = [
+           {name = "tags"},
+           {name = "categories"},
+]
 [markdown]
 highlight_code = true
-highlight_theme = "one-dark"
-render_emoji = true
-
-[search]
-include_title = true
-include_description = false
-include_path = false
-include_content = true
 
 [extra]
-chart.enabled = true
-mermaid.enabled = true
-galleria.enabled = true
+grid_size = "grid-lg"
+author = "donabe"
+show_author = true
+show_tags = true
+show_categories = true
+read_more_prompt = "read more"
+read_post_prompt = "read post"
 
-navbar_items = [
-  { code = "ja",nav_items = [
-  { url = "/",name = "Home" },
-  { url = "/about",name = "About me" },
-  { url = "/my_contents",name = "Contents" },
-  { url = "/posts",name = "Posts" },
-  { url = "/tags",name = "Tags" },
-  { url = "/categories", name = "Categories" },
- ]},
+hamburger_menu = true
+
+main_menu = [
+    {url="/about", name="about me"},
+    {url="/tags/", name="tags"},
+    {url="/categories/", name="categories"},          
 ]
 
+social_links = [
+    {url = "https://twitter.com/A10donabe", name = "twitter"},
+    {url = "https://github.com/donabe8898", name = "github"},
+    # {url = "", name = "instagram"},
+    # {url = "", name = "facebook"},
+]
+[extra.sidebar]
+active=true
+text_snippet="書くこと無いから猫でも載せておきますね　🐈 < ﾆｬｰ"
 
-[extra.social]
-twitter = "A10donabe"
-github = "donabe8898"
-email = "okaokau5@gmail.com"
+author_bio = "ゲームと乗り鉄が趣味の情報系大学生。つよくなりたい..."
+author_avatar = "blueAGOOO.png"
 
-[extra.favicon]
-favicon_16x16 = "images/aho.png"
-favicon_32x32 = "images/aho.png"
-apple_touch_icon = "images/aho.png"
-safari_pinned_tab = "images/aho.png"
-webmanifest = "images/aho.png"
+tweets_by="A10donabe"
 
-[extra.author]
-name = "Donabe"
-avatar = "images/blueAGOOO.png"
+popular_tags=false
+archive=false
+related_posts=false
+
+#========================
+
