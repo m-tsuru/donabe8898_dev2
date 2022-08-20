@@ -1,22 +1,42 @@
-# The URL the site will be built for
-base_url = "https://donabe8898.dev"
-
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+base_url = "/"
+title = "donabe"
+description="The front page of donabeeeeee"
 default_language = "ja"
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
-theme = "particle-zola"
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+generate_feed = true
+feed_filename = "rss.xml"
+theme = "zerm"
+compile_sass=true
 
+highlight_theme = "axar"
+build_search_index = false
+taxonomies = [
+           {name = "tags", feed = true},
+           {name = "categories", feed = true},
+]
+[markdown]
+highlight_code = true
 [extra]
-username = "Donabe8898"
-user_description = ""
-user_title = "兵庫県に生息しています"
-twitter_username = "A10donabe"
-github_username = "Donabe8898"
-email = "okaokau5@gmail.com"
-# Put all your custom variables here
+author="donabe"
+show_author = false
+show_categories = true
+show_tags = true
+theme_color = "blue"
+show_menu_items = 3
+full_width = false
+favicon = "/images/favicon.ico"
+logo_text = "どな部屋"
+main_menu = [
+	{url="/profile/", name="プロフィール"},
+	{url="/train/", name="乗鉄日記"},
+	{url="/programming/", name="Programming"},
+	{url="/pgp/", name="PGP", external=true},
+	{url="https://github.com/donabe8898", name="GitHub", external=true},
+	{url="https://donabe8898.dev", name="donabe8898.dev", external=true},
+
+]
+menu_more = "show more"
+read_more="りーどモア"
+read_other_posts = "もっと見る"
+enable_katex = true
+center = true
+disqus = { enabled=false, short_name="donalog" }
