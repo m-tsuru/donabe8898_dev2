@@ -44,7 +44,7 @@ AppleT2セキュリティチップを搭載するMacBookAir9,1にArchLinuxをイ
     sudo pacman -S pipewire-alsa
     sudo pacman -S pipewire-pulse
     ```
-        入れる際にpulseaudioと競合するからどうする？みたいなのを聞いてくるけど全部Yesして♡
+    入れる際にpulseaudioと競合するからどうする？みたいなのを聞いてくるけど全部Yesして♡
 
 
 2. なんやかんや実行（これはwikiに書いてある）
