@@ -28,12 +28,34 @@ AppleT2セキュリティチップを搭載するMacBookAir9,1にArchLinuxをイ
 
 	- どうやらmacOSからwifiとBluetoothのファームウェアをパクってくるらしい.
 
-# オーディオが逝キスギィ
+# ~~オーディオが逝キスギィ~~
 - [https://wiki.t2linux.org/guides/audio-config/](https://wiki.t2linux.org/guides/audio-config/) 
 
-	- configファイルがありますねぇ！
+	- ~~configファイルがありますねぇ！~~
 
-	- MacBookAir9,1だけファイルの中身が微レ違.
+	- ~~MacBookAir9,1だけファイルの中身が微レ違.~~
+
+# やっぱりオーディオ死んでるじゃないか（憤怒）
+　カーネルを5.19.10に上げるとconfigファイルが効かなくなるみたい。回避策載せるから見とけよ見とけよ〜
+
+1. じゃあまず、pipewireを入れてくれるかな？ 
+    ```bash
+    sudo pacman -S pipewire
+    sudo pacman -S pipewire-alsa
+    sudo pacman -S pipewire-pulse
+    ```
+        入れる際にpulseaudioと競合するからどうする？みたいなのを聞いてくるけど全部Yesして♡
+
+
+2. なんやかんや実行（これはwikiに書いてある）
+    ```bash
+    sudo git clone https://github.com/kekrby/t2-better-audio.git /tmp/t2-better-audio
+    cd /tmp/t2-better-audio
+    ./install.sh
+    sudo rm -r /tmp/t2-better-audio
+    ```
+
+
 
 # 暴れるなよ...暴れるなよ...（サスペンドできない）
 
