@@ -89,15 +89,15 @@ vhdlの環境整えてやりました。
         ```
 
 3.  - シミュレーションしてみる
-    ```bash
-    ghdl -a half-adder.vhd      #回路を記述したコードをコンパイル
-    ghdl -a tb_half_adder.vhd   #テストベンチもコンパイル
-    ghdl -e tb_half_adder       #実行ファイルにする
+        ```bash
+        ghdl -a half-adder.vhd      #回路を記述したコードをコンパイル
+        ghdl -a tb_half_adder.vhd   #テストベンチもコンパイル
+        ghdl -e tb_half_adder       #実行ファイルにする
     
-    #シミュレートする。自動では止まってくれないので5,6秒経ったらCtrl+Cで抜けてok。
-    ghdl -r tb_half_adder --vcd=half_adder.vcd
-    gtkwave half_adder.vcd      #GTKWaveでウェーブを確認できる
-    ```
+        #シミュレートする。自動では止まってくれないので5,6秒経ったらCtrl+Cで抜けてok。
+        ghdl -r tb_half_adder --vcd=half_adder.vcd
+        gtkwave half_adder.vcd      #GTKWaveでウェーブを確認できる
+        ```
 
 4.  - できあがったものがこちらになります
 <img src="gtkwave.png" width="100%">
