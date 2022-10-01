@@ -31,7 +31,7 @@ main_menu = [
 	{url="/programming/", name="Programming"},
 	{url="/pgp/", name="PGP", external=true},
 	{url="https://github.com/donabe8898", name="GitHub", external=true},
-	{url="https://donabe8898.dev", name="donabe8898.dev", external=true},
+	{url="https://donabe8898.dev", name="UNIX System V Release 4", external=true},
 
 ]
 menu_more = "show more"
