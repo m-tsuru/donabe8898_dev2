@@ -4,7 +4,7 @@ description = "uooo"
 date = 2022-09-29
 [extra]
 [taxonomies]
-categories = ["blog"]
+categories = ["tech"]
 tags = ["ArchLinux","FPGA","VHDL"]
 +++
 
