@@ -38,7 +38,7 @@ AppleT2セキュリティチップを搭載するMacBookAir9,1にArchLinuxをイ
 # やっぱりオーディオ死んでるじゃないか（憤怒）
 　カーネルを5.19.10に上げるとconfigファイルが効かなくなるみたい。回避策載せるから見とけよ見とけよ〜
 
-1. じゃあまず、pipewireを入れてくれるかな？ 
+1. じゃあまず、pipewireを入れてくれるかな？
     ```bash
     sudo pacman -S pipewire
     sudo pacman -S pipewire-alsa
