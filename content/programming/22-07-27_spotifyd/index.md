@@ -4,7 +4,7 @@ description = "３時間格闘してた"
 date = 2022-07-27
 [extra]
 [taxonomies]
-categories = ["blog"]
+categories = ["tech"]
 tags = ["ArchLinux","Linux","Spotifyd"]
 +++
 

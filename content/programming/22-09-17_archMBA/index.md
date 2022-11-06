@@ -4,7 +4,7 @@ description = "意外とすんなり入ります"
 date = 2022-09-17
 [extra]
 [taxonomies]
-categories = ["blog"]
+categories = ["tech"]
 tags = ["ArchLinux","Apple","MacBookAir"]
 +++
 

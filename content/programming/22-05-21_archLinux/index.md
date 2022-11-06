@@ -4,7 +4,7 @@ description = "底なし沼だこれ"
 date = 2022-05-21
 [extra]
 [taxonomies]
-categories = ["blog"]
+categories = ["tech"]
 tags = ["ArchLinux","OS","Linux"]
 +++
 
