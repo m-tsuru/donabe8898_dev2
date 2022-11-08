@@ -22,14 +22,14 @@ path = "profile"
 
 #### int main (string develop)
 
-- [OS]: ArchLinux 5.19.13-arch1-1 (2022年10月12日現在) ![archLinux](/arch8015linux.png)
+- [OS]: ArchLinux 6.0.7-arch1-1 (2022年11月8日現在) ![archLinux](/arch8015linux.png)
 - [Processor]: AMD Ryzen 5 1400 amd64
 - [Graphics]: AMD Radeon RX 560 2GB GDDR5
 - [RAM]: DDR4-2666 16GB ×1
 - [Storage]: SATA SSD  120GB
 
 #### int laptop_CFQV9 (string univ)
-- [OS]: ArchLinux 5.19.13-arch1-1 (2022年10月12日現在) ![archLinux](/arch8015linux.png)
+- [OS]: ArchLinux 6.0.7-arch1-1 (2022年11月8日現在) ![archLinux](/arch8015linux.png)
 - [Processor]: Intel core i5-10210U
 - [Graphics]: Intel CometLake-U GT2 [UHD Graphics]
 - [RAM]: DDR4-2666 8GB ×1
