@@ -8,7 +8,7 @@ path = "profile"
 - 職業: 大学生
 
 # そぞく
-- 大阪電気通信大学　総合情報学部　情報学科 2年
+- OECU T科 2年
 - Minecraftゲームコミュニティ「PostMineClan」の技術部っぽい何か
 
 # SNS
