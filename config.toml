@@ -29,7 +29,7 @@ main_menu = [
 	{url="/profile/", name="プロフィール"},
 	{url="/train/", name="乗鉄日記"},
 	{url="/programming/", name="Programming"},
-    {url="/link/", name="Ohter link"}
+    {url="/link/", name="Links"},
 	{url="/pgp/", name="PGP", external=true},
 	{url="https://github.com/donabe8898", name="GitHub", external=true},
 	{url="https://donabe8898.dev", name="UNIX System V Release 4", external=true},
