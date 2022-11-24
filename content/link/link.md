@@ -12,7 +12,8 @@ path = "link"
 順不同　削除依頼はissueかSNSのDMまで
 
 - yudeさん: 勝手リンクの勝手リンクなので実質相互リンク（？）
-<a href=https://yude.jp><img src="images/yude_banner.png" alt="yude San"><a>
+
+<a href=https://yude.jp> <img src="images/yude_banner.png" alt="yudesan"/> </a>
 
 - kichiさん; [Kichi2004.jp](https://kichi2004.jp/)
 
