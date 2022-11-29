@@ -19,6 +19,8 @@ path = "link"
 
 - nishikiさん; [Nishiki-Hub](https://nishikiout.hatenablog.com/)
 
+- [[ リンクは削除されました ]]
+
 ## その他
 
 - ArchLinuxJP <a href=https://www.archlinux.jp><img src="images/arch83x31.gif" alt="archlinuxJP"><a>
