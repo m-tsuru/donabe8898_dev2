@@ -3,7 +3,7 @@ title = "リンク集"
 path = "link"
 +++
 
-## マイ リンク
+## マイリンク
 - まいくらであそんでるところ; [pmchp.pages.dev](https://pmchp.pages.dev)
 ## 相互リンク
 無い。悲しいかな。
