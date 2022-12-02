@@ -13,7 +13,7 @@ path = "link"
 
 - yudeさん: 勝手リンクの勝手リンクなので実質相互リンク（？）
 
-<a href=https://yude.jp> <img src="images/yude_banner.png" alt="yudesan"/> </a>
+<a href=https://yude.jp> <img src="yude_banner.png" alt="yudesan"/> </a>
 
 - kichiさん; [Kichi2004.jp](https://kichi2004.jp/)
 
