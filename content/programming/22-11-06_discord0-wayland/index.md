@@ -1,6 +1,6 @@
 +++
 title = "waylandセッションのdiscordで画面共有する"
-description = "uooo"
+description = ""
 date = 2022-11-06
 [extra]
 [taxonomies]

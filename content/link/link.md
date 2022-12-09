@@ -1,3 +1,4 @@
+
 +++
 title = "リンク集"
 path = "link"
@@ -23,4 +24,4 @@ path = "link"
 
 ## その他
 
-- ArchLinuxJP <a href=https://www.archlinux.jp><img src="images/arch83x31.gif" alt="archlinuxJP"><a>
+- ArchLinux <a href=https://www.archlinux.jp><img src="/images/arch83x31.gif" alt="archlinuxJP"><a>

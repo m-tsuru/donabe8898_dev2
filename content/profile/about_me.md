@@ -9,7 +9,7 @@ path = "profile"
 
 # そぞく
 - OECU T科 2年
-- Minecraftゲームコミュニティ「PostMineClan」の技術部っぽい何か
+
 
 # SNS
 - twitter: [@A10donabe](https://twitter.com/A10donabe)
