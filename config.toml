@@ -21,7 +21,7 @@ show_author = false
 show_categories = true
 show_tags = true
 theme_color = "blue"
-show_menu_items = 5
+show_menu_items =
 full_width = false
 favicon = "/images/favicon.ico"
 logo_text = "どな部屋"
@@ -31,6 +31,7 @@ main_menu = [
 	{url="/programming/", name="Programming"},
     {url="/link/", name="Links"},
 	{url="/pgp/", name="PGP", external=true},
+	{url="https://discord.gg/tYV4hANgen", name="Discord Server", external=true},
 	{url="https://github.com/donabe8898", name="GitHub", external=true},
 	{url="https://donabe8898.dev", name="UNIX System V Release 4", external=true},
 
