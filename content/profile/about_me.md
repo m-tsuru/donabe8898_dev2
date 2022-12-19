@@ -14,7 +14,7 @@ path = "profile"
 # SNS
 - twitter: [@A10donabe](https://twitter.com/A10donabe)
 - twitter（サブ）: [@yuugoo19](https://twitter.com/yuugoo19)
-- mastodon: [@yugo@mstdn.donabe8898.dev](https://@yugo@mstdn.donabe8898.dev)
+- mastodon: [@yugo@mstdn.donabe8898.dev](https://mstdn.donabe8898.dev/@yugo)
 - instagram: [a10_donabe](https://www.instagram.com/a10_donabe/)
 - GitHub : [donabe8898](https://github.com/donabe8898)
 - Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
@@ -46,7 +46,7 @@ path = "profile"
 
 #### Server
 
-- [OS]: ArchLinux x86_64![archLinux](/arch8015linux.png)
+- [OS]: Ubuntu Server 22.04.1 LTS x86_64
 - [Processor]: Intel core i5-8300T x86_64
 - [RAM]: DDR4-2666 8GB ×1
 - [Storage]: NVMe SSD  256GB
