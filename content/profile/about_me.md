@@ -14,6 +14,7 @@ path = "profile"
 # SNS
 - twitter: [@A10donabe](https://twitter.com/A10donabe)
 - twitter（サブ）: [@yuugoo19](https://twitter.com/yuugoo19)
+- mastodon: [@yugo@mstdn.donabe8898.dev](https://@yugo@mstdn.donabe8898.dev)
 - instagram: [a10_donabe](https://www.instagram.com/a10_donabe/)
 - GitHub : [donabe8898](https://github.com/donabe8898)
 - Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
