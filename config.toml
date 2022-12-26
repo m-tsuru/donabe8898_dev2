@@ -27,9 +27,9 @@ favicon = "/images/favicon.ico"
 logo_text = "どな部屋"
 main_menu = [
 	{url="/profile/", name="プロフィール"},
-	{url="/train/", name="乗鉄日記"},
-	{url="/programming/", name="Programming"},
-    {url="/link/", name="Links"},
+    {url="/programming/", name="Blog"},
+	{url="/train/", name="どなトレイン"},
+    {url="/link/", name="リンクとかその他"},
 	{url="https://discord.gg/tYV4hANgen", name="Discord Server", external=true},
 	{url="https://github.com/donabe8898", name="GitHub", external=true},
 	{url="/pgp/", name="PGP", external=true},
