@@ -10,7 +10,9 @@ path = "link"
 無い。悲しいかな。
 
 ## 勝手リンク
-順不同　削除依頼はissueかSNSのDMまで
+勝手にリンク失礼します.
+
+削除依頼はissueかSNSのDMまで.
 
 - yudeさん: 勝手リンクの勝手リンクなので実質相互リンク（？）
 
@@ -20,8 +22,10 @@ path = "link"
 
 - nishikiさん; [Nishiki-Hub](https://nishikiout.hatenablog.com/)
 
-- [[ リンクは削除されました ]]
+- haxibamiさん; [haxibami.net](https://www.haxibami.net/)
+
 
 ## その他
 
 - ArchLinux <a href=https://www.archlinux.jp><img src="/images/arch83x31.gif" alt="archlinuxJP"><a>
+

@@ -3,48 +3,27 @@ title = "profile"
 path = "profile"
 +++
 
-# I'm donabe
-- 年齢: 20
-- 職業: 大学生
+# Who?
+name: Donabe
+名前: 土鍋
+なまえ: どなべ
 
-# そぞく
-- OECU T科 2年
+由来:WiiUでMiiに名前を付けるときに何も見ずにキーボードを打ったら「となへ」となったので
+それを改変した.
+# Organization
+- OECU - T
 
+# Hobby
 
-# SNS
+- Play Video Game (Minecraft, Splatoon3, more Shooting Games...)
+- Proggraming (Software, Embeded,  Atcoder...)
+- Railfan (Ride or travel)
+
+# Contact
+
 - twitter: [@A10donabe](https://twitter.com/A10donabe)
-- mastodon: [@yugo@mstdn.donabe8898.dev](https://mstdn.donabe8898.dev/@yugo)
+~ - mastodon: [@yugo@mstdn.donabe8898.dev](htt ps://mstdn.donabe8898.dev/@yugo) ~
 - GitHub : [donabe8898](https://github.com/donabe8898)
 - Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
 
-# マシン
-2023年1月12日時点の記録です.
-#### Desktop
 
-- [OS]: ArchLinux 6.1.4-arch1-1 / Microsoft Windows 11 ![archLinux](/arch8015linux.png)
-- [Processor]: AMD Ryzen 5 3600 @3600MHz
-- [Graphics]: nvidia Geforce GTX 1660ti 6GB GDDR6
-- [RAM]: DDR4-2666 16GB × 2 (31.5GiB)
-- [Storage]: NVMe SSD 1TB / SATA SSD 500 GB
-
-#### CF-QV9 Laptop
-- [OS]: ArchLinux 6.1.4-arch1-1 ![archLinux](/arch8015linux.png)
-- [Processor]: Intel core i5-10210U
-- [Graphics]: Intel CometLake-U GT2 [UHD Graphics]
-- [RAM]: DDR4-2666 8GB ×1
-- [Storage]: NVMe SSD 256GB
-
-#### MacBookAir 2020 9,1
-
-- [OS]: macOS13.0 Veutura / Darwin Kernel Version 22.1.0
-- [Processor]: Intel i5-1030NG7 (8) @ 1.10GHz
-- [Graphics]: Intel Iris Plus Graphics
-- [RAM]: 8GB LPDDR4
-- [Storage]: NVMe SSD 256GB
-
-#### Server
-
-- [OS]: Ubuntu Server 22.04.1 LTS x86_64
-- [Processor]: Intel core i5-8300T x86_64
-- [RAM]: DDR4-2666 8GB ×1
-- [Storage]: NVMe SSD  256GB
