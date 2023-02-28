@@ -5,7 +5,7 @@ date = 2022-05-21
 [extra]
 [taxonomies]
 categories = ["tech"]
-tags = ["ArchLinux","OS","Linux"]
+tags = ["ArchLinux","OS","GNU/Linux"]
 +++
 
 # WindowsPCにArchLinuxをインストールしてrEFIndでデュアルブート

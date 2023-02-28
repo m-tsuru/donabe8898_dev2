@@ -5,7 +5,7 @@ date = 2022-11-06
 [extra]
 [taxonomies]
 categories = ["tech"]
-tags = ["ArchLinux","OBS","wayland","Linux"]
+tags = ["ArchLinux","OBS","wayland","GNU/Linux"]
 +++
 
 # 材料

@@ -5,7 +5,7 @@ date = 2022-07-27
 [extra]
 [taxonomies]
 categories = ["tech"]
-tags = ["ArchLinux","Linux","Spotifyd"]
+tags = ["ArchLinux","GNU/Linux","Spotifyd"]
 +++
 
 # パスワードをconfに直接貼りたくない
