@@ -27,9 +27,15 @@ path = "profile"
 # Contact
 
 - twitter: [@A10donabe](https://twitter.com/A10donabe)
-- ~~mastodon: [@yugo@mstdn.donabe8898.dev]~~
+
+- Misskey: [@donabe@misskey.io](https://misskey.io/@donabe)
+
+- ~~ mastodon: [@yugo@mstdn.donabe8898.dev]~~
+
     - 現在インスタンス停止中
+
 - GitHub : [donabe8898](https://github.com/donabe8898)
+
 - Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
 
 
