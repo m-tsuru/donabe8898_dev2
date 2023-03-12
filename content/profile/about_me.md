@@ -30,7 +30,7 @@ path = "profile"
 
 - Misskey: [@donabe@misskey.io](https://misskey.io/@donabe)
 
-- ~~ mastodon: [@yugo@mstdn.donabe8898.dev]~~
+- ~~mastodon: [@yugo@mstdn.donabe8898.dev]~~
 
     - 現在インスタンス停止中
 

@@ -30,6 +30,7 @@ main_menu = [
     {url="/device/", name="Devices"},
     {url="/programming/", name="Blog"},
 	{url="/train/", name="どなトレイン"},
+    {url="/prop/", name="布教のコーナー"},
     {url="/link/", name="リンクとかその他"},
 	{url="https://discord.gg/tYV4hANgen", name="Discord Server", external=true},
 	{url="https://github.com/donabe8898", name="GitHub", external=true},

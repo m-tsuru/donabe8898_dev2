@@ -22,7 +22,7 @@ vhdlの環境整えてやりました。
     - Editorは好きなのを使って、どうぞ（VSCodeいいぞ〜これ）。
 
 2.  - テキトーにコードを書く。例として半加算器のコードを載せといてやる夫（＾ω＾　）
-        ``` VHDL
+        ``` c++
         -- half-adder.vhd
         library IEEE;
         use IEEE.std_logic_1164.all;
@@ -42,7 +42,7 @@ vhdlの環境整えてやりました。
 
 
     - あとテストベンチ用のコードも書いとく
-        ```VHDL
+        ```c++
         -- tb_half_adder.vhd
         library IEEE;
         use IEEE.std_logic_1164.all;

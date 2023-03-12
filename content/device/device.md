@@ -9,7 +9,7 @@ path = "device"
 
 #### Desktop
 
-- [OS]: ArchLinux 6.0.9-pf5-1 / Microsoft Windows 11 ![archLinux](/arch8015linux.png)
+- [OS]: ArchLinux 6.2.2-zen1-1-zen / Microsoft Windows 11 ![archLinux](/arch8015linux.png)
 - [Processor]: AMD Ryzen 5 3600 @3600MHz
 - [Graphics]: nvidia Geforce GTX 1660ti 6GB GDDR6
 - [RAM]: DDR4-2666 16GB ✕ 2 (31.5GiB)
@@ -37,7 +37,7 @@ path = "device"
 - [RAM]: DDR4-2666 8GB ✕ 1
 - [Storage]: NVMe SSD  256GB
 
-# Embed
+# Single Board Computer
 
 #### Rasberrypi 4 Model B
 
