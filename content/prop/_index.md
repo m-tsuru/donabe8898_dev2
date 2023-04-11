@@ -13,6 +13,9 @@ path = "勝手に布教するページ"
 [ポプテピピック](http://hoshiiro.jp/)
 - クソアニメ. 作者と同じ地元なのが腹立つ（）
 
+[機動戦士ガンダムユニコーンRE:0096](http://www.gundam-unicorn.net/tv/)
+- 撃てませええええええええええええええええええん!!!!
+
 # ゲーム
 [Minecraft](https://www.minecraft.net/ja-jp)
 - たぶん死ぬまでブロック積み続けるよ
