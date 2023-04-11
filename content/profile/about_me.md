@@ -16,7 +16,7 @@ path = "profile"
 # Organization
 
 - Osaka Electro-Communication University
-    - Department of Computer Science - B2
+    - Department of Computer Science - B3
 
 # Hobby
 
