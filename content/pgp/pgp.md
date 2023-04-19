@@ -3,6 +3,7 @@ title = "pgp"
 path = "pgp"
 +++
 - [GnuPG](https://github.com/donabe8898.gpg)
-    - 鍵指紋：`3CF0 0E9E 8E38 3E5A 6E20 382D E45E EC20 2276 2449`
+    - Algorithm: ED25519
+    - 鍵指紋： `15AA 1B21 81F1 C518 5336  20DA 9619 A67A 0C10 A1D8`
 
 - [SSH](https://github.com/donabe8898.keys)
