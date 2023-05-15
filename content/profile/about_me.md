@@ -37,9 +37,7 @@ path = "profile"
 
 - Misskey: [@donabe@misskey.io](https://misskey.io/@donabe)
 
-- ~~mastodon: [@yugo@mstdn.donabe8898.dev]~~
-
-    - 現在インスタンス停止中
+- mastodon: [@yu5@mstdn.jp](https://mstdn.jp/@yu5)
 
 - GitHub : [donabe8898](https://github.com/donabe8898)
 
