@@ -9,14 +9,14 @@ path = "device"
 
 #### Desktop
 
-- [OS]: ArchLinux 6.2.2-zen1-1-zen / Microsoft Windows 11 ![archLinux](/arch8015linux.png)
+- [OS]: ArchLinux 6.3.2-zen1-1-zen / Microsoft Windows 11 ![archLinux](/arch8015linux.png)
 - [Processor]: AMD Ryzen 5 3600 @3600MHz
 - [Graphics]: nvidia Geforce GTX 1660ti 6GB GDDR6
 - [RAM]: DDR4-2666 16GB ✕ 2 (31.5GiB)
 - [Storage]: NVMe SSD 1TB / SATA SSD 500 GB
 
 ##### GALLERIA (UL7C-AA3)
-- [OS]: ArchLinux 6.2.11-arch1-1 ![archLinux](/arch8015linux.png)
+- [OS]: ArchLinux 6.3.2-arch1-1 ![archLinux](/arch8015linux.png)
 - [Processor]: 12th Gen Intel i7-12700H (20) @ 4.600GHz
 - [Graphics]: Intel DG2 [Arc A550M]
 - [RAM]: DDR5-4800 8GB ×2
