@@ -24,7 +24,7 @@ theme_color = "blue"
 show_menu_items = 5
 full_width = false
 favicon = "/images/favicon.ico"
-logo_text = "どな部屋"
+logo_text = "~/どな部屋"
 main_menu = [
 	{url="/profile/", name="プロフィール"},
     {url="/device/", name="Devices"},
