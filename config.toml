@@ -1,6 +1,6 @@
 base_url = "https://donabe8898.dev"
 title = "donabe"
-description="The front page of donabeeeeee"
+description="散りばめられた有象無象の部屋"
 default_language = "ja"
 generate_feed = true
 feed_filename = "rss.xml"
