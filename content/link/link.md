@@ -7,16 +7,16 @@ path = "link"
 ## マイリンク
 - まいくらであそんでるところ; [pmchp.pages.dev](https://pmchp.pages.dev)
 ## 相互リンク
-無い。悲しいかな。
+
+- yudeさん
+
+<a href=https://yude.jp> <img src="/images/yude_banner.png" alt="yudesan"/> </a>
 
 ## 勝手リンク
 勝手にリンク失礼します.
 
 削除依頼はissueかSNSのDMまで.
 
-- yudeさん: 勝手リンクの勝手リンクなので実質相互リンク（？）
-
-<a href=https://yude.jp> <img src="/images/yude_banner.png" alt="yudesan"/> </a>
 
 - kichiさん; [Kichi2004.jp](https://kichi2004.jp/)
 
