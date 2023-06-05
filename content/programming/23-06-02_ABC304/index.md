@@ -1,7 +1,7 @@
 +++
 title = "AtCoder Beginner Contest 304"
 description = ""
-date = 2023-05-26
+date = 2023-06-02
 [extra]
 [taxonomies]
 categories = ["blog"]
