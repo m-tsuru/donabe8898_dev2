@@ -39,6 +39,8 @@ path = "profile"
 
 - mastodon: [@yu5@mstdn.jp](https://mstdn.jp/@yu5)
 
+- BlueSky: [@donabe.bsky.social](https://bsky.app/profile/donabe.bsky.social)
+
 - GitHub : [donabe8898](https://github.com/donabe8898)
 
 - Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
