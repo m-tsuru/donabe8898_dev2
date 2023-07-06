@@ -41,6 +41,8 @@ path = "profile"
 
 - BlueSky: [@donabe.bsky.social](https://bsky.app/profile/donabe.bsky.social)
 
+- Threads: [@a10_donabe](https://www.threads.net/@a10_donabe)
+
 - GitHub : [donabe8898](https://github.com/donabe8898)
 
 - Gmail: [okaokau5@gmail.com](okaokau5@gmail.com)
