@@ -39,7 +39,7 @@ path = "profile"
 
 - mastodon: [@yu5@mstdn.jp](https://mstdn.jp/@yu5)
 
-- BlueSky: [@donabe.bsky.social](https://bsky.app/profile/donabe.bsky.social)
+- BlueSky: [@donabe8898.dev](https://bsky.app/profile/donabe8898.dev)
 
 - Threads: [@a10_donabe](https://www.threads.net/@a10_donabe)
 
