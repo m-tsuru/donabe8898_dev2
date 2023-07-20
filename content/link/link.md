@@ -12,7 +12,7 @@ path = "link"
 
 <a href=https://yude.jp> <img src="/images/yude_banner.png" alt="yudesan"/> </a>
 
-- haxibamiさん; [haxibami.net](https://www.haxibami.net/)
+- haxibamiさん: [haxibami.net](https://www.haxibami.net/)
 
 ## 勝手リンク
 勝手にリンク失礼します.
@@ -22,7 +22,7 @@ path = "link"
 
 - kichiさん; [Kichi2004.jp](https://kichi2004.jp/)
 
-- nishikiさん; [Nishiki-Hub](https://nishikiout.hatenablog.com/)
+- nishikiさん: [Nishiki-Hub](https://nishikiout.hatenablog.com/)
 
 - KusaReMKNさん: [kusaremkn.com](https://kusaremkn.com/)
 
