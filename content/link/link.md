@@ -20,7 +20,7 @@ path = "link"
 削除依頼はissueかSNSのDMまで.
 
 
-- kichiさん; [Kichi2004.jp](https://kichi2004.jp/)
+- kichiさん: [Kichi2004.jp](https://kichi2004.jp/)
 
 - nishikiさん: [Nishiki-Hub](https://nishikiout.hatenablog.com/)
 

@@ -33,7 +33,7 @@ path = "profile"
 
 # 連絡 / Contact
 
-- twitter: [@A10donabe](https://twitter.com/A10donabe)
+- X: [@A10donabe](https://twitter.com/A10donabe)
 
 - Misskey: [@donabe@misskey.io](https://misskey.io/@donabe)
 
