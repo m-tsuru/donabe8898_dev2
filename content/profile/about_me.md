@@ -1,5 +1,5 @@
 +++
-title = "profile"
+title = "プロフィール / profile"
 path = "profile"
 +++
 
@@ -14,8 +14,10 @@ path = "profile"
 
 # 所属 / Organization
 
-- Osaka Electro-Communication University
+- 2021-04~ : Osaka Electro-Communication University
     - Department of Computer Science - B3
+
+- 2023-04 ~ : OECU programming club (OPC)
 # 資格や免許 / Qualification
 
 - 全国工業高等学校長協会 情報技術検定 2級
@@ -30,6 +32,7 @@ path = "profile"
 - Play Video Game (Minecraft, Splatoon3, more Shooting Games...)
 - Proggraming (Software, Atcoder...)
 - Railfan (Ride or travel)
+- Swimming (平泳ぎが得意です)
 
 # 連絡 / Contact
 

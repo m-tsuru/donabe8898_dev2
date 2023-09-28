@@ -27,6 +27,7 @@ favicon = "/images/favicon.ico"
 logo_text = "~/どな部屋"
 main_menu = [
 	{url="/profile/", name="プロフィール"},
+    {url="/contents/",name="Contents"},
     {url="/device/", name="Devices"},
     {url="/programming/", name="Blog"},
     {url="/prop/", name="布教のコーナー"},
