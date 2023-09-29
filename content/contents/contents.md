@@ -35,7 +35,7 @@ path = "contents"
     - URL: ["https://atcoder.jp/users/Donabe8898"](https://atcoder.jp/users/Donabe8898)
 
 
-<img src="atcoder.png" alt="ac" width="70%">
+!["ac.png"](/atcoder.png)
 
 
 ---
