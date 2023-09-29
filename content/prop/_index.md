@@ -19,6 +19,18 @@ path = "勝手に布教するページ"
 
 [Splatoop3](https://gundamevolution.jp/)
 
+# ミュージック
+
+[Vigilante / Hiroyuki Sawano](https://open.spotify.com/track/2c6KdYeRksstDTddYwZlDR?si=8755a1ae56644b19)
+
+[RE:I AM / Aimer](https://open.spotify.com/track/2vPlG5tIMc5EU1tx5jYvVg?si=406891cb841c412d)
+
+[Banquet / Clean Tears](https://open.spotify.com/track/1cxcN5Tdi3m3905DP7ovsu?si=a8f0a0fc45cc4c43)
+
+[いい日 旅立ち / Momoe Yamaguchi](https://open.spotify.com/track/1RMTiEFR2rZz3gwXvusACt?si=173944c78a834d7b)
+
+[Starry Sky / CAPSULE](https://open.spotify.com/track/6XhNXDIgiBqlYpb0SuhUef?si=0d2c9425f5724453)
+
 # Tech
 [ArchLinux](https://www.archlinux.jp/)
 

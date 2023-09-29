@@ -1,5 +1,5 @@
 +++
-title = "成果物 / contents"
+title = "成果物など / contents"
 path = "contents"
 +++
 
@@ -46,6 +46,16 @@ path = "contents"
     - 1000円ガチャ(お酒OFFスイッチ付き)も実装
     - Rustの入門を目的に開発
     - GitHub: ["https://github.com/donabe8898/not_saizeriya.git"](https://github.com/donabe8898/not_saizeriya.git)
+
+---
+
++ UUID 生成ソフトウェア
+    - UUIDv6を生成する超簡単なソフトウェア
+    - GTK4+Rustを少しだけ勉強したときの成果物
+    - GitHub: ["https://github.com/donabe8898/uuid-gtk"](https://github.com/donabe8898/uuid-gtk)
+
+![uuid_gtk](/uuid.gif)
+
 
 ---
 
