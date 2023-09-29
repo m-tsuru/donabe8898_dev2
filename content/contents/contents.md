@@ -34,7 +34,9 @@ path = "contents"
     - 使用言語は`C++`, `Rust`
     - URL: ["https://atcoder.jp/users/Donabe8898"](https://atcoder.jp/users/Donabe8898)
 
-    <img src="atcoder.png" alt="ac" width="70%">
+
+<img src="atcoder.png" alt="ac" width="70%">
+
 
 ---
 
