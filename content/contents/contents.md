@@ -3,9 +3,9 @@ title = "成果物など / contents"
 path = "contents"
 +++
 
+### Game
 
 + Unityインターハイ2018 本選　提出作品
-
     - 作品名「Asterian」
     - 3人での共同制作
     - 星のかけらを集めて衛星を修復するゲーム
@@ -15,9 +15,8 @@ path = "contents"
     !["play.gif"](/Asterial.gif)
 
 ---
-
+### Embeded
 - Arduino用を使用した不快指数モニタ「thi-monitor-rs」
-
     - 大学の授業内で制作
     - 本来はArduino用の言語を用いて開発するものを, あえてRustで開発した
     - RGBLEDと温湿度センサを用いた不快指数がひと目でわかるデバイス
@@ -28,8 +27,8 @@ path = "contents"
 
 ---
 
-- 競技プログラミング「AtCoder」
-
+### Competitive programming
+- Atcoder
     - 現在(2023-09-28時点)のレーティングは425(茶色)
     - 使用言語は`C++`, `Rust`
     - URL: ["https://atcoder.jp/users/Donabe8898"](https://atcoder.jp/users/Donabe8898)
@@ -39,28 +38,36 @@ path = "contents"
 
 
 ---
+### Discord bot
 
-+ Discord Bot「Not Saizeriya」
-
+- Not Saizeriy
     - 存在しなさそうな某イタリアンレストランのメニューを生成するDiscord Bot
     - 1000円ガチャ(お酒OFFスイッチ付き)も実装
-    - Rustの入門を目的に開発
     - GitHub: ["https://github.com/donabe8898/not_saizeriya.git"](https://github.com/donabe8898/not_saizeriya.git)
 
----
+- Ping Pong Dash
+    - VCチャンネルに誰かが入ったら知らせてくれるBot
+    - GitHub: ["https://github.com/donabe8898/ping-pong-dash"](https://github.com/donabe8898/ping-pong-dash)
 
-+ UUID 生成ソフトウェア
+---
+### GUI
+
+- UUID 生成ソフトウェア
     - UUIDv6を生成する超簡単なソフトウェア
     - GTK4+Rustを少しだけ勉強したときの成果物
     - GitHub: ["https://github.com/donabe8898/uuid-gtk"](https://github.com/donabe8898/uuid-gtk)
 
 ![uuid_gtk](/uuid.gif)
 
-
 ---
+### Web
 
 - donabe8898.dev(本ウェブサイト)
-
     - Rust製の静的サイトジェネレータ「zola」を使用
     - GitHubとCloudflareを連携させてCI/CDを行っている
+
+- Post Mine Clan
+    - 所属しているコミュニティのWebサイトを担当
+    - GitHub: ["https://github.com/donabe8898/PostMineClan"](https://github.com/donabe8898/PostMineClan)
+
 
