@@ -22,7 +22,7 @@ path = "link"
 
 - kichiさん: [Kichi2004.jp](https://kichi2004.jp/)
 
-- nishikiさん: [Nishiki-Hub](https://nishikiout.hatenablog.com/)
+- Arakawaさん: [Arakawa Laboratory](https://arkw.net/)
 
 - KusaReMKNさん: [kusaremkn.com](https://kusaremkn.com/)
 
