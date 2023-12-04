@@ -14,6 +14,8 @@ path = "link"
 
 - haxibamiさん: [haxibami.net](https://www.haxibami.net/)
 
+- KusaReMKNさん: [kusaremkn.com](https://kusaremkn.com/)
+
 ## 勝手リンク
 勝手にリンク失礼します.
 
@@ -23,8 +25,6 @@ path = "link"
 - kichiさん: [Kichi2004.jp](https://kichi2004.jp/)
 
 - Arakawaさん: [Arakawa Laboratory](https://arkw.net/)
-
-- KusaReMKNさん: [kusaremkn.com](https://kusaremkn.com/)
 
 - soracatさん: [scrapbox.io/soracat](https://scrapbox.io/soracat/soracat)
 
