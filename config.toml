@@ -1,45 +1,55 @@
 base_url = "https://donabe8898.dev"
 title = "donabe"
-description="散りばめられた有象無象の部屋"
+description="The front page of donabeeeeee"
 default_language = "ja"
 generate_feed = true
 feed_filename = "rss.xml"
-theme = "zerm"
+theme = "anemone"
 compile_sass=true
+minify_html = true
+
+
 
 highlight_theme = "axar"
 build_search_index = false
 taxonomies = [
-           {name = "tags", feed = true},
-           {name = "categories", feed = true},
+    {name = "tags", feed = true},
 ]
+
+
 [markdown]
+render_emoji = true
+external_links_target_blank = true
+smart_punctuation = true
 highlight_code = true
+highlight_theme = "gruvbox-dark"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[link_checker]
+internal_level = "warn"
+
+
 [extra]
 author="donabe"
-show_author = false
-show_categories = true
-show_tags = true
-theme_color = "blue"
-show_menu_items = 5
+display_author = true
+
 full_width = false
 favicon = "/images/favicon.ico"
-logo_text = "~/どな部屋"
-main_menu = [
-	{url="/profile/", name="プロフィール"},
-    {url="/contents/",name="Contents"},
-    {url="/device/", name="Devices"},
-    {url="/programming/", name="Blog"},
-    {url="/prop/", name="布教のコーナー"},
-    {url="/link/", name="リンクとかその他"},
-	{url="https://discord.gg/tYV4hANgen", name="Discord Server", external=true},
-	{url="https://github.com/donabe8898", name="GitHub", external=true},
-	{url="/pgp/", name="PGP", external=true},
-
+header_nav = [
+	{url = "/", name_ja = "/home/"},
+    {url = "/about", name_ja = "/about/"},
+    {url = "/blog", name_ja = "/blog/" },
+    {url = "/contents", name_ja = "/contents/"},
+    {url = "/links" , name_ja = "/links/"}
 ]
-menu_more = "show more"
-read_more="りーどモア"
-read_other_posts = "もっと見る"
+default_theme = "dark"
+list_pages = false
+twitter_card = true
+
 enable_katex = true
-center = true
 disqus = { enabled=false, short_name="donalog" }
+
