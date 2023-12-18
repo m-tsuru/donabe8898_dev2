@@ -47,7 +47,7 @@ header_nav = [
     {url = "/links" , name_ja = "/links/"}
 ]
 default_theme = "dark"
-list_pages = true
+list_pages = false
 twitter_card = true
 
 enable_katex = true
