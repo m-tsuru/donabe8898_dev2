@@ -2,13 +2,15 @@
 title = "リンク集"
 +++
 ## 相互リンク
-- [yudeさん: yude.jp](https://yude.jp)
+- yudeさん: yude.jp
+
+<a href=https://yude.jp> <img src="yude_banner.png" width = "30%" alt="yude"/> </a>
 
 - [haxibamiさん: haxibami.net](https://haxibami.net)
 
-- [KusaReMKNさん: kusaremkn.com](https://kusaremkn.com)
+- KusaReMKNさん: kusaremkn.com
 
-<a href=https://kusaremkn.com> <img src="/images/mknchan.webp" alt="mknchan"/> </a>
+<a href=https://kusaremkn.com> <img src="/images/mknchan.webp" width = "30%" alt="mknchan"/> </a>
 
 ## 勝手リンク
 勝手にリンク失礼します。
@@ -22,3 +24,7 @@ title = "リンク集"
 
 
 ### その他
+
+- ArchLinux
+
+<a href=https://www.archlinux.jp><img src="arch8015linux.png" alt="archlinuxJP"><a>
