@@ -4,7 +4,7 @@ title = "リンク集"
 ## 相互リンク
 - yudeさん: yude.jp
 
-<a href=https://yude.jp> <img src="yude_banner.png" width = "30%" alt="yude"/> </a>
+<a href=https://yude.jp> <img src="/images/yude_banner.png" width = "30%" alt="yude"/> </a>
 
 - [haxibamiさん: haxibami.net](https://haxibami.net)
 
@@ -27,4 +27,4 @@ title = "リンク集"
 
 - ArchLinux
 
-<a href=https://www.archlinux.jp><img src="arch8015linux.png" alt="archlinuxJP"><a>
+<a href=https://www.archlinux.jp><img src="/images/arch8015linux.png" alt="archlinuxJP"><a>
