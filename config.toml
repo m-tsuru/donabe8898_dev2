@@ -44,6 +44,7 @@ header_nav = [
     {url = "/about", name_ja = "/about/"},
     {url = "/blog", name_ja = "/blog/" },
     {url = "/contents", name_ja = "/contents/"},
+    {url = "/devices", name_ja = "/devices/"},
     {url = "/links" , name_ja = "/links/"}
 ]
 default_theme = "dark"
