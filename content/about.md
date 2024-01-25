@@ -3,7 +3,7 @@ title = "私について"
 +++
 
 
-- 本名: Yugo Okamoto
+- Name: Yugo Okamoto
 
 ## 所属 / Organization
 
@@ -18,6 +18,11 @@ title = "私について"
 - 🧑‍💻 IPA 基本情報技術者試験
 - 🚗 普通自動車第一種免許（AT限定）
 
+## 活動 / Recent Activity History
+
+- [2023/8]Internship @ __さくらインターネット__
+- [2023/9]Internship @ __Biglobe株式会社__
+
 
 ## 趣味 / Hobby
 
@@ -26,12 +31,13 @@ title = "私について"
 - 🚅 Railfan (Ride or travel)
 - 🏊🏻 Swimming (平泳ぎが得意です)
 
-## 連絡 / Contact
+## マイリンク / My Link
 
 - 𝕩 / [@A10donabe](https://twitter.com/A10donabe)
 - Misskey 😻 / [@donabe@misskey.io](https://misskey.io/@donabe)
 - mastodon 🐘 / [@yu5@mstdn.jp](https://mstdn.jp/@yu5)
 - BlueSky 🦋 / [@donabe8898.dev](https://bsky.app/profile/donabe8898.dev)
+- 静かなインターネット ✎ / [donabe](https://sizu.me/donabe)
 - Threads 📷 / [@a10_donabe](https://www.threads.net/@a10_donabe)
 - GitHub 🐙 / [donabe8898](https://github.com/donabe8898)
 - Gmail 📨 / [okaokau5@gmail.com](okaokau5@gmail.com)
