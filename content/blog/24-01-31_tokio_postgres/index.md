@@ -54,3 +54,9 @@ DBから得たデータを分解する際に, 変数に格納したりするは�
     }
 
 ```
+
+
+## URL
+[tolio_postgres/rust-doc]("https://docs.rs/postgres-types/0.1.3/postgres_types/trait.ToSql.html")
+
+[RustからPostgreSQLを使う ]("https://unicorn.limited/jp/rd/rust/20200726-postgres.html")
