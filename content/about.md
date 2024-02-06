@@ -41,3 +41,10 @@ title = "私について"
 - Threads 📷 / [@a10_donabe](https://www.threads.net/@a10_donabe)
 - GitHub 🐙 / [donabe8898](https://github.com/donabe8898)
 - Gmail 📨 / [okaokau5@gmail.com](okaokau5@gmail.com)
+
+- IRC Server
+
+    - IP address: `irc.donabe8898.dev`
+    - ポート: `6668`
+    - ポート(SSL): `6697`
+    - password: `serverDona9118`
