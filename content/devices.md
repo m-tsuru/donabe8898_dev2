@@ -2,12 +2,12 @@
 title = "デバイス"
 +++
 
-2024年1月25日時点の記録です.
+2024年2月17日時点の記録です.
 
 
 ## Server
 
-- OS: ArchLinux x86_64 
+- OS: ArchLinux x86_64
 - Processor: Intel core i5-8300T x86_64
 - RAM: DDR4-2666 8GB ✕ 1
 - Storage: NVMe SSD  256GB
@@ -17,11 +17,11 @@ title = "デバイス"
 ## PC
 
 - Desktop
-    - OS: ArchLinux 6.6.7-arch1-1  / Microsoft Windows 11 Home / OpenIndiana Hipster 2023.05
+    - OS: ArchLinux x86_64  / Microsoft Windows 11 Home / FreeBSD 14.0-RELEASE amd64
     - Processor: AMD Ryzen 5 3600 @3600MHz
     - Graphics: nvidia Geforce GTX 1660ti 6GB GDDR6
     - RAM: DDR4-2666 16GB ✕ 2 (31.5GiB)
-    - Storage: NVMe SSD 1TB / SATA SSD 500 GB / SATA SSD 120 GB
+    - Storage: NVMe SSD 1TB / SATA SSD 500 GB /
 ---
 - ⚠売却しました
 - ~~GALLERIA (UL7C-AA3)~~
@@ -32,7 +32,7 @@ title = "デバイス"
     - ~~Storage: NVMe SSD 500GB~~
 ---
 - Panasonic CF-QV9 Laptop
-    - OS: Microsoft Windows 10 Home 64 bit
+    - OS: ArchLinux x86_64
     - Processor: Intel core i5-10210U
     - Graphics: Intel CometLake-U GT2 [UHD Graphics]
     - RAM: DDR4-2666 8GB ✕ 1

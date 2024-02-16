@@ -18,12 +18,11 @@ title = "コンテンツ"
 # Embeded
 ## Arduino用を使用した不快指数モニタ「thi-monitor-rs」
 - 大学の授業内で制作
-- 本来はArduino用の言語を用いて開発するものを, あえてRustで開発した
 - RGBLEDと温湿度センサを用いた不快指数がひと目でわかるデバイス
-- RustでI2Cデバイスの制御と基本的なGPIO制御の学習
+- RustでI2Cの制御と基本的なGPIO制御の学習ができた
 - GitHub: ["https://github.com/donabe8898/thi-monitor-rs.git"](https://github.com/donabe8898/thi-monitor-rs.git)
 
-!["demo.gif"](/thi-monitor-rs.gif)
+!["thi_demo.gif"](/thi-monitor-rs.gif)
 
 ---
 
@@ -38,7 +37,17 @@ title = "コンテンツ"
 
 
 ---
-# Discord bot
+# Discord
+
+## KIPP
+- チケット製タスク管理ツール
+    - TODOアプリとしても使える
+    - Discord上ですべての操作が完結する
+- Rust製
+- PostgreSQLを初めて扱ったプロダクト
+- GitHub: [https://github.con/donabe8898/KIPP.git](https://github.con/donabe8898/KIPP.git)
+
+!["KIPP_demo"](/KIPP_demoGIF.gif)
 
 ## Not Saizeriy
 - 存在しなさそうな某イタリアンレストランのメニューを生成するDiscord Bot
