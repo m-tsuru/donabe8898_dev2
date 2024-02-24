@@ -51,7 +51,7 @@ title = "コンテンツ"
 
 ## Not Saizeriy
 - 存在しなさそうな某イタリアンレストランのメニューを生成するDiscord Bot
-- 1000円ガチャ(お酒OFFスイッチ付き)も実装
+- 1000円ガチャ(お酒OFFスイッチ付き)も実装済
 - GitHub: ["https://github.com/donabe8898/not_saizeriya.git"](https://github.com/donabe8898/not_saizeriya.git)
 
 ## Ping Pong Dash
@@ -72,7 +72,8 @@ title = "コンテンツ"
 # Moblie
 ## Todolin
 - 超簡易的なメモアプリ
-- 大学の授業内で制作. 授業自体はJavaで書いていたが, 後に自分でKotlinで書き直した
+- 大学の授業内で制作
+- 授業内ではJavaで書いていたが, 後に自分でKotlinで書き直した
 - GitHub: ["https://github.com/donabe8898/todolin"](https://github.com/donabe8898/todolin)
 
 
