@@ -45,7 +45,7 @@ title = "コンテンツ"
     - Discord上ですべての操作が完結する
 - Rust製
 - PostgreSQLを初めて扱ったプロダクト
-- GitHub: [https://github.con/donabe8898/KIPP.git](https://github.con/donabe8898/KIPP.git)
+- GitHub: [https://github.com/donabe8898/KIPP.git](https://github.com/donabe8898/KIPP.git)
 
 !["KIPP_demo"](/KIPP_demoGIF.gif)
 
