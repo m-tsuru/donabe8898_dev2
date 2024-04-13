@@ -84,7 +84,7 @@ title = "コンテンツ"
 ## donabe8898.dev(本ウェブサイト)
 - Rust製の静的サイトジェネレータ「zola」を使用
     - 非常にビルドが高速
-- GitHubとCloudflareを連携させてCI/CDを行っている
+- GitHub + Cloudflare pagesでビルド＆ホスト
 
 ## Post Mine Clan
 - 所属しているコミュニティのWebサイトを担当
