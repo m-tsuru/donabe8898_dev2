@@ -1,7 +1,7 @@
-+++
-title = "コンテンツ"
-+++
-
+---
+title: Contents
+---
+[←戻る](../)
 
 # Game
 
@@ -89,3 +89,6 @@ title = "コンテンツ"
 ## Post Mine Clan
 - 所属しているコミュニティのWebサイトを担当
 - GitHub: ["https://github.com/donabe8898/PostMineClan"](https://github.com/donabe8898/PostMineClan)
+
+
+[←戻る](../)

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <meta
+      name="description"
+      itemprop="about"
+      content="{{config.description}}"
+    />
+    <link rel="stylesheet" href="{{ get_url(path='styles.css') | safe }}" />
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="{{ get_url(path='/') | safe }}">
+          <img
+            src="{{ get_url(path='img/BlueMN.png') | safe }}"
+            class="site-logo"
+            alt="Logo"
+            width="275px"
+            height="auto"
+        /></a>
+
+        <p>{{ config.description }}</p>
+
+        <p class="view"
+          ><a href="https://zenn.dev/donabe8898"
+            > Zenn
+            <small>テクニカルっぽい記事</small></a
+          ></p
+        >
+
+        <p class="view"
+          ><a href="https://yude.jp"
+            > ブログページ
+            <small>comming soon...</small></a
+          ></p
+
+        <p class="view"
+          ><a href="https://sizu.me/donabe"
+            > しずかなインターネット
+            <small>有象無象</small></a
+          ></p
+        >
+
+        <p class="view"
+          ><a href="https://blog-a4h.pages.dev/"
+            > 旧どな部屋
+            <small>避難先として残しています</small></a
+          ></p
+        >
+
+        <!-- <p class="view"
+          ><a href="https://github.com/semanticdata/project"
+            >View the project on GitHub.
+            <small>semanticdata/zola-minimal</small></a
+          ></p
+        >
+
+        <p class="view"
+          ><a href="https://github.com/semanticdata/"
+            >View my profile on GitHub. <small>semanticdata</small></a
+          ></p
+        > -->
+
+        <ul class="downloads">
+          <li
+            ><a href="./sns">💬<strong>SNS</strong></a></li
+          >
+          <li
+            ><a href="./contents">💻<strong>コンテンツ</strong></a></li
+          >
+          <li
+            ><a href="https://github.com/donabe8898">🐙<strong>GitHub</strong></a></li
+          >
+        </ul>
+      </header>
+
+      <section> {% block content %} {% endblock content %} </section>
+
+      <footer>
+        <p
+          ><small>
+            Powered by <a href="https//www.getzola.org/">Zola</a> &mdash; Themed
+            with
+            <a href="https://github.com/semanticdata/zola-minimal/">Minimal</a
+            >.<br />
+            Project maintained by
+            <a href="https://miguelpimentel.do">Miguel Pimentel</a>.
+          </small></p
+        >
+      </footer>
+    </div>
+  </body>
+</html>

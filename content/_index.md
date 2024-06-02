@@ -1,30 +1,62 @@
-+++
-+++
+---
+title: ようこそどな部屋へ
+---
 
-## シンプル、軽量なウェブサイト
+<h1><span class="reinbo">プロフィール</span></h1>
 
-*__Donabe8898 のページへようこそ。__*
+## 基本情報
+Name: Donabe（Yugo Okamoto）
 
-> *Keep It Simple を標榜する、軽量で柔軟性に優れた私のウェブサイトです。*
+🎂: 2002-04-04 / 22歳
+
+📍: Hyogo, Japan
+
+## 所属
+- 神戸市立科学技術高等学校  / 2018年4月 - 2021年3月
+- 大阪電気通信大学 / 2021年4月 - 2025年3月（予定）
+- ???? / 2024年中に公開
+
+## 資格や免許
+- 情報技術検定2級 / 2018年5月
+- 基本情報技術者試験合格 / 2023年5月
+- 普通自動車第一種免許(AT限定) / 2023年11月
 
 
-## 何をお探しですか？
-以下のリンクから簡単にアクセス！
+## 趣味
 
-- 🧒🏻 [donabeついて知りたい](./about)
-- 📰 [ブログを閲覧](./blog)
-- 🖥️ [プログラミング成果物](./contents)
-- 🔗 [相互リンクなど](./links)
-- 💻 [使っているコンピューター/環境](./devices)
-- 💾 [GitHub](https://github.com/donabe8898)
+- 🎮 Play Video Game (Minecraft, Splatoon3, more Shooting Games…)
+- 🧑‍💻 Proggraming (Software, Atcoder…)
+- 🚅 Railfan (Ride or travel)
+- 🚗 Driving (まじで車欲しい)
+- 🏊🏻 Swimming (平泳ぎが得意です)
 
-## PGP鍵
+## 活動
 
-- 🔑 [GnuPG](https://github.com/donabe8898.gpg)
-    - Algorithm: ED25519
-    - 鍵指紋： `15AA 1B21 81F1 C518 5336  20DA 9619 A67A 0C10 A1D8`
+- [2023/8]Internship @ さくらインターネット
+- [2023/9]Internship @ Biglobe株式会社
 
-- 🔒 [SSH](https://github.com/donabe8898.keys)
+---
 
-#### このページの技術について
-- 📕 [license](./license)
+# リンク集
+
+## 相互リンク
+- yudeさん: yude.jp <a href=https://yude.jp> <img src="/img/yude_banner.png" width = "30%" alt="yude"/> </a>
+
+- [haxibamiさん: haxibami.net](https://haxibami.net)
+
+- KusaReMKNさん: kusaremkn.com <a href=https://kusaremkn.com> <img src="/img/mknchan.webp" width = "30%" alt="mknchan"/> </a>
+
+## 勝手リンク
+勝手にリンク失礼します。
+削除依頼はissueかSNSのDMまで。
+
+- kichiさん: [kichi2004.jp](https://kichi2004.jp)
+
+- Aarakawaさん: [Arakawa Laboratory](https://arkw.net)
+
+- soracatさん: [scrapbox.io/soracat](https://scrapbox.io/soracat/soracat)
+
+
+### その他
+
+<a href=https://www.archlinux.jp><img src="/img/arch8015linux.png" alt="archlinuxJP"><a>
