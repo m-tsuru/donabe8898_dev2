@@ -5,11 +5,9 @@ title: ようこそどな部屋へ
 <h1><span class="reinbo">プロフィール</span></h1>
 
 ## 基本情報
-Name: Donabe（Yugo Okamoto）
-
-🎂: 2002-04-04 / 22歳
-
-📍: Hyogo, Japan
+- Name: Donabe（Yugo Okamoto）
+- 🎂: 2002-04-04 / 22歳
+- 📍: Hyogo, Japan
 
 ## 所属
 - 神戸市立科学技術高等学校  / 2018年4月 - 2021年3月
@@ -41,9 +39,7 @@ Name: Donabe（Yugo Okamoto）
 
 ## 相互リンク
 - yudeさん: yude.jp <a href=https://yude.jp> <img src="/img/yude_banner.png" width = "30%" alt="yude"/> </a>
-
 - [haxibamiさん: haxibami.net](https://haxibami.net)
-
 - KusaReMKNさん: kusaremkn.com <a href=https://kusaremkn.com> <img src="/img/mknchan.webp" width = "30%" alt="mknchan"/> </a>
 
 ## 勝手リンク
@@ -51,12 +47,18 @@ Name: Donabe（Yugo Okamoto）
 削除依頼はissueかSNSのDMまで。
 
 - kichiさん: [kichi2004.jp](https://kichi2004.jp)
-
 - Aarakawaさん: [Arakawa Laboratory](https://arkw.net)
-
 - soracatさん: [scrapbox.io/soracat](https://scrapbox.io/soracat/soracat)
 
 
 ### その他
 
 <a href=https://www.archlinux.jp><img src="/img/arch8015linux.png" alt="archlinuxJP"><a>
+
+---
+# PGP
+🔑 [GnuPG](https://github.com/donabe8898.gpg)
+- Algorithm: ED25519
+- Fingerprint: `15AA 1B21 81F1 C518 5336 20DA 9619 A67A 0C10 A1D8`
+
+🔒 [SSH](https://github.com/donabe8898.keys)
