@@ -25,4 +25,4 @@ highlight_theme = "Tomorrow"
 
 [extra]
 # Put all your custom variables here
-favicon = "/img/favicon.ico"
+favicon = "favicon.ico"
