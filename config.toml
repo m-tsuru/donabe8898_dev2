@@ -4,7 +4,7 @@ title = "どな部屋"
 description = "毎日インターネットが日課"
 
 theme = "zola-minimal"
-# default_language = "ja"
+# default_language = "jp"
 
 
 # Whether to automatically compile all Sass files in the sass directory
