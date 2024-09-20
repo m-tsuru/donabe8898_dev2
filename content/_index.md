@@ -6,7 +6,7 @@ title: ようこそどな部屋へ
 
 ## 基本情報
 
-- Name: Donabe（Yugo Okamoto）
+- 👤: Donabe（Yugo Okamoto）
 - 🎂: 2002-04-04 / 22歳
 - 📍: Hyogo, Japan
 
