@@ -10,6 +10,14 @@ title: マイコンピュータ
 - Intel Arc A580 8GB GDDR6
 - 1TB NVMe SSD + 500GB SATA3 SSD
 
+# LAPTOP / Lenovo Thinkpad E15 Gen2 (新入りデス)
+
+- ArchLinux x86_64 version: rolling
+- Intel Core i5-1135G7
+- 32GB DDR4-3200
+- Intel Xe Graphics
+- 256GB NVMe SSD
+
 # LAPTOP / Panaasonic CF-QV9 2021
 
 - Arch Linux x86_64 version: rolling
