@@ -54,7 +54,7 @@ title: ようこそどな部屋へ
 - Aarakawaさん: [Arakawa Laboratory](https://arkw.net)
 - soracatさん: [scrapbox.io/soracat](https://scrapbox.io/soracat/soracat)
 - すわわゆさん: [swawa.dev](https://swawa.dev/)
-- そうすぽよさん: [poyo.me](https://poyo.me/)
+- そすうぽよさん: [poyo.me](https://poyo.me/)
 
 ### その他
 
