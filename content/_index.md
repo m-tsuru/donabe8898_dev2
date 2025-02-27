@@ -51,7 +51,7 @@ title: ようこそどな部屋へ
 削除依頼はissueかSNSのDMまで。
 
 - kichiさん: [kichi2004.jp](https://kichi2004.jp)
-- Aarakawaさん: [Arakawa Laboratory](https://arkw.net)
+- Arakawaさん: [Arakawa Laboratory](https://arkw.net)
 - soracatさん: [scrapbox.io/soracat](https://scrapbox.io/soracat/soracat)
 - すわわゆさん: [swawa.dev](https://swawa.dev/)
 - そすうぽよさん: [poyo.me](https://poyo.me/)
