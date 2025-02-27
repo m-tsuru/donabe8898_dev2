@@ -25,7 +25,7 @@ title: ようこそどな部屋へ
 ## 趣味
 
 - 🎮 Play Video Game (Minecraft, Splatoon3, more Shooting Games…)
-- 🧑‍💻 Proggraming (Software, Atcoder…)
+- 🧑‍💻 Programming (Software, Atcoder…)
 - 🚅 Railfan (Ride or travel)
 - 🚗 Driving (まじで車欲しい)
 - 🏊🏻 Swimming (平泳ぎが得意です)
